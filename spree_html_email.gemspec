@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version     = '1.0.1'
   s.summary     = 'HTML email support for Spree'
   s.description = "Provides html email templates for all Spree's outgoing emails. Uses ERB."
-  s.required_ruby_version = '>= 1.8.7'
+  s.required_ruby_version = '>= 2.0.0'
 
   s.author            = 'Joshua Nussbaum'
   s.email             = 'joshnuss@gmail.com'
